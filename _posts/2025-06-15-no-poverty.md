@@ -12,4 +12,4 @@ I used ChatGPT, Canva, and Python Streamlit. Something hard was putting all of t
 
 
 ## Play
-[Play "No Poverty"](https://yunapark.streamlit.app/~/+/#no-poverty)
+[Play "No Poverty"](https://yunapark.streamlit.app/#no-poverty)
